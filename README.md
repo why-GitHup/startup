@@ -9,6 +9,14 @@ A modern, full-stack web application for entrepreneurs to share, discover, and c
 
 ---
 
+## 🎥 Demo
+
+https://user-images.githubusercontent.com/Screen%20Recording%202026-01-23%20114757.mp4
+
+*Watch the platform in action - from browsing startup ideas to creating your own*
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
